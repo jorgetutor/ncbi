@@ -1,8 +1,8 @@
 {
     "name": "tutor/ncbi",
     "description": "National Center for Biotechnology Information (NCBI) E-Utils Guzzle Client",
-    "keywords": ["nbci", "e-utils", "pubmed", "tutor", "api", "guzzle"],
-    "homepage": "http://github.com/jorgetutor/nbci",
+    "keywords": ["ncbi", "e-utils", "pubmed", "tutor", "api", "guzzle"],
+    "homepage": "http://github.com/jorgetutor/ncbi",
     "license": "MIT",
     "type": "library",
     "require": {
